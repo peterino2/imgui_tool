@@ -10,7 +10,6 @@ INCLUDE_PATH = -Isource/
 
 INCLUDE_PATH += -Isource/lib/imgui
 INCLUDE_PATH += -Isource/lib/imgui/backends
-INCLUDE_PATH += -Isource/lib/imgui/backends
 
 INCLUDE_PATH += -Isource/lib/sdl2/include/
 INCLUDE_PATH += -Isource/lib/glad/include/
