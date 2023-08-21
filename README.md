@@ -14,6 +14,7 @@ build command:
 make && build/imgui_tool
 ```
 
-[[screenshots/image.png]]
+[![imgui_tool](screenshots/image.png)]
+
 
 
